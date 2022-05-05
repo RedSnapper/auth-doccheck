@@ -4,6 +4,11 @@ accessible to (medical) professionals The DocCheck password protection is an ide
 medical sites which is compliant with the German law for pharmaceutical commercial information HWG
 (Heilmittelwerbegesetz)
 
+
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/rs/auth-docchek.svg?style=flat-square)](https://packagist.org/packages/rs/auth-docchek)
+[![GitHub Tests Action Status](https://github.com/redsnapper/auth-docchek/workflows/run-tests/badge.svg)](https://github.com/redsnapper/auth-docchek/actions)
+[![Total Downloads](https://img.shields.io/packagist/dt/rs/auth-docchek.svg?style=flat-square)](https://packagist.org/packages/rs/auth-docchek)
+
 ## Installation
 
 You can install the package via composer:
