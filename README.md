@@ -1,4 +1,4 @@
-# Very short description of the package
+# DocCheck Authentication
 With the DocCheck Login you are able to very simply establish a protected area on your site, which is only
 accessible to (medical) professionals The DocCheck password protection is an identification service for
 medical sites which is compliant with the German law for pharmaceutical commercial information HWG
