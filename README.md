@@ -5,9 +5,9 @@ medical sites which is compliant with the German law for pharmaceutical commerci
 (Heilmittelwerbegesetz)
 
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/rs/auth-onekey.svg?style=flat-square)](https://packagist.org/packages/rs/auth-doccheck)
-[![GitHub Tests Action Status](https://github.com/redsnapper/auth-onekey/workflows/run-tests/badge.svg)](https://github.com/redsnapper/auth-onekey/actions)
-[![Total Downloads](https://img.shields.io/packagist/dt/rs/auth-onekey.svg?style=flat-square)](https://packagist.org/packages/rs/auth-onekey)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/rs/auth-doccheck.svg?style=flat-square)](https://packagist.org/packages/rs/auth-doccheck)
+[![GitHub Tests Action Status](https://github.com/redsnapper/auth-doccheck/workflows/run-tests/badge.svg)](https://github.com/redsnapper/auth-doccheck/actions)
+[![Total Downloads](https://img.shields.io/packagist/dt/rs/auth-doccheck.svg?style=flat-square)](https://packagist.org/packages/rs/auth-doccheck)
 
 ## Installation
 
